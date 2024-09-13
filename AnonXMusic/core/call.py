@@ -15,9 +15,6 @@ from pytgcalls.types import Update
 from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped
 from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQualityVideo
 from pytgcalls.types.stream import StreamAudioEnded
-from pytgcalls.types import StreamType  # Example, might need to be changed based on documentation 
-
-# ... rest of your code ...
 
 import config
 from AnonXMusic import LOGGER, YouTube, app
