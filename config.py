@@ -78,21 +78,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://unitedcamps.in/Images/file_1059.jpg"
+    "START_IMG_URL", "Your Link: https://envs.sh/Pxp.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://unitedcamps.in/Images/file_1059.jpg"
+    "PING_IMG_URL", "Your Link: https://envs.sh/Pxp.jpg"
 )
-PLAYLIST_IMG_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-STATS_IMG_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-TELEGRAM_AUDIO_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-TELEGRAM_VIDEO_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-STREAM_IMG_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-SOUNCLOUD_IMG_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-YOUTUBE_IMG_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://unitedcamps.in/Images/file_1059.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://unitedcamps.in/Images/file_1059.jpg"
+PLAYLIST_IMG_URL = "Your Link: https://envs.sh/Pxp.jpg"
+STATS_IMG_URL = "Your Link: https://envs.sh/Pxp.jpg"
+TELEGRAM_AUDIO_URL = "Your Link: https://envs.sh/Pxp.jpg"
+TELEGRAM_VIDEO_URL = "Your Link: https://envs.sh/Pxp.jpg"
+STREAM_IMG_URL = "Your Link: https://envs.sh/Pxp.jpg"
+SOUNCLOUD_IMG_URL = "Your Link: https://envs.sh/Pxp.jpg"
+YOUTUBE_IMG_URL = "Your Link: https://envs.sh/Pxp.jpg"
+SPOTIFY_ARTIST_IMG_URL = "Your Link: https://envs.sh/Pxp.jpg"
+SPOTIFY_ALBUM_IMG_URL = "Your Link: https://envs.sh/Pxp.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "Your Link: https://envs.sh/Pxp.jpg"
 
 
 def time_to_seconds(time):
