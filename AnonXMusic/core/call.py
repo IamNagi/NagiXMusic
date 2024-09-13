@@ -15,8 +15,7 @@ from pytgcalls.types import Update
 from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped
 from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQualityVideo
 from pytgcalls.types.stream import StreamAudioEnded
-from pytgcalls.pytgcalls import PyTgCalls, StreamType  # Import through the class
-from pytgcalls.types import StreamType  # If StreamType is in the "types" submodule
+from pytgcalls.types import StreamType  # Example, might need to be changed based on documentation 
 
 # ... rest of your code ...
 
