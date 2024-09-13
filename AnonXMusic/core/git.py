@@ -4,6 +4,10 @@ from typing import Tuple
 
 from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError
+from pytgcalls.pytgcalls import PyTgCalls, StreamType  # Import through the class
+from pytgcalls.types import StreamType  # If StreamType is in the "types" submodule
+
+# ... rest of your code ...
 
 import config
 
